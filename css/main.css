@@ -1,0 +1,76 @@
+body
+{
+overflow-x:hidden;
+font:20px 'Ubuntu', sans-serif;
+background:#202020;
+background-attachment: fixed;
+}
+.logo h1
+{
+margin-left:20px;
+font-size:45px;
+font-family:'Segoe Script';
+ }
+.panel{
+border-color:#eee;
+margin:50px;
+padding:50px;
+}
+.top
+{
+margin-top:20px;
+}
+.submit
+{
+color:#fff;
+}
+.submit:hover
+{
+border-color:#00d4cf;
+color:#00d4cf;
+}
+.title1{
+font: 25px "Century Gothic", "Times Roman", sans-serif;
+color:#428bca;
+}
+.title2{
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+
+}
+.bg
+{
+background:url(../img/five.jpg);
+background-repeat:no-repeat;
+background-size:850px;
+}
+.sub
+{
+width:50%;
+background-color:#428bca;
+font-size:20px;
+padding:2px;
+margin-top:15px;
+margin-right:20px;
+}
+.sub:hover
+{
+color:#fff;
+}
+.sub1
+{
+width:90px;
+color:#202020;
+background:orange;
+font-size:20px;
+height:30px;
+}
+
+.small
+{
+margin-top:40px;
+color:#fff;
+}
+
+.reg1{
+	background-color:#428BCA;
+}
